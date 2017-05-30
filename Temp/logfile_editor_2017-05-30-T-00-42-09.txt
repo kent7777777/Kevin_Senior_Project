@@ -1,0 +1,30 @@
+[Edit] Msg: Updating Packages...
+[Edit] Msg:   Uninstalling unregistered packages...
+[Edit] Msg:   Verifying registered packages...
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Primitives, 2.0.4
+[Edit] Msg:     Package downloaded: AdamsLair.NVorbis, 0.7.5
+[Edit] Msg:     Package downloaded: AdamsLair.FarseerDuality, 4.1.4
+[Edit] Msg:     Package downloaded: AdamsLair.Duality, 2.12.4
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Launcher, 2.3.3
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Backend.DotNetFramework, 2.1.1
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Plugins.Compatibility, 2.0.2
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Docs, 2.0.1
+[Edit] Msg:     Package downloaded: AdamsLair.OpenTK, 1.1.8
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Backend.DefaultOpenTK, 2.0.19
+[Edit] Msg:     Package downloaded: AdamsLair.DockPanelSuite, 2.8.1.0
+[Edit] Msg:     Package downloaded: AdamsLair.TreeViewAdv, 1.7.6.0
+[Edit] Msg:     Package downloaded: AdamsLair.WinForms.PopupControl, 1.0.0.0
+[Edit] Msg:     Package downloaded: AdamsLair.WinForms, 1.1.12
+[Edit] Msg:     Package downloaded: Microsoft.Web.Xdt, 2.1.1
+[Edit] Msg:     Package downloaded: NuGet.Core, 2.8.3
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor, 2.9.0
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.Base, 2.2.7
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.CamView, 2.4.4
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.HelpAdvisor, 2.0.4
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.LogView, 2.1.8
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.ObjectInspector, 2.0.5
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.ProjectView, 2.0.11
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.SceneView, 2.0.12
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Plugins.PackageManagerFrontend, 2.1.1
+[Edit] Msg:     Package downloaded: AdamsLair.OpenTK.GLControl, 1.1.8
+[Edit] Msg:     Package downloaded: AdamsLair.Duality.Editor.Backend.DefaultOpenTK, 2.0.5
